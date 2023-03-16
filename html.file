@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+<h1>My Home Page</h1><br>
+<h1>BINANCE</h1>
+<body bgcolor="yellow"text="black"> </body>
+
+
+
+
+
+  </style> 
+  
+
+<head>
+     
+
+ <title>My name is rizwan alam and welcome to my first web site</title>
+
+  
+     
+  
+<h1><i><center>This web site is very good web site</center</i></h1>  
+  <h2><i><center>About to blockchain</center></i>
+  <h3><i>What is blockchain</i><h3>
+<p><i>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A suscipit explicabo cum eius provident consequuntur tempore molestias autem? Officia alias fugit temporibus illo dolore vitae velit dignissimos distinctio quis tempora ducimus, beatae deleniti dicta placeat expedita! Amet, odit assumenda sequi ducimus eaque soluta quod sint sapiente illo, unde doloribus ex.</i></p> 
+
+
+
+     
+</head>  
+<body>
+   <img src="./blockchain..jfif "height="200">
+   <a href="https://www.binance.com/en" target="_blank">Open BINANCE.....</a>
+    <ol type='I'>
+      <h2>    <li><i><u>List</u> of alt coin</i></li></h2>
+          <h2>     <li><i><u>Bitcoin</u> in chain</i></li></h2>
+          <h2>     <li><i><u>Trading</u> market</i></li> </h2>
+           <h2>    <li><i><u>Money</u> invester</i></li></h2>
+           <h2>    <li><i><u>Very</u> helpfull</i></li></h2>
+            </ol>
+
+
+
+
+
+
+<ul style='list-style-type: square;'>
+      <h2>    <li><i><b>List</b> of all golden chance</i></li></h2>
+          <h2>     <li><i><b>marketing</b> for money</i></li></h2>
+          <h2>     <li><i><b>bitcoin</b> standing</i></li> </h2>
+           <h2>    <li><i><b>crypto</b> curruncy</i></li></h2>
+           <h2>    <li><i><b>business</b> devlopment</i></li></h2>
+           </ul> 
+           <dl>
+         <h2>   <dt><i>Binance</i></dt> </h2>    
+     <h2>      <dd><i>Binance is very helpful and most interesting web site</i></dd> </h2>
+             
+         <h2><dt><i>Binance</i></dt></h2>       
+         <h2><dd><i>Binance is a good web site</i></dd></h2>    
+
+
+
+
+
+         </dl>
+
+
+
+
+
+
+</body>
+
+            <h1>SIGN UP FORMS</h1>
+            <form method='Get' action="hello.html">
+            <form>
+                <input type="text" placeholder="First Name"><br><br>
+                <input type="text" placeholder="Last Name"><br><br>
+                <input type="email" placeholder="Email"><br><br>
+                <input type="password" placeholder="Password"><br><br>
+              
+
+             <p>Select your gender</p>
+                <label for="male">Male</label> 
+                <input type="radio" name="gender" id="male" value="Male"><br>
+ 
+                <label for="female">Female</label> 
+                <input type="radio" name="gender" id="female" value="Female"><br>
+
+                <label for="other">Other</label> 
+                <input type="radio" name="gender" id="other" value="Other"><br>
+
+                <label for="age-group">Select your age group</label> 
+                <select name="" id="age group">
+                <option value="12-18">12-18</option>
+                <option value="20-35">20-35</option>
+                <option value="40-55">40-55</option>
+                <option value="50+">50+</option>
+                <
+
+
+                </select>
+                <br>
+                <input type="submit" value="sign in">
+                <label for="country">Country</lable>
+                <select ib="country"> 
+                      <option value="Pakistan">Pakistan</option>
+                      <option value="Turkey">Turkey</option> 
+                      <option value="Iran">Iran</option>
+                      <option value="Qatar">Qatar</option> 
+                      <option value="Uae">Uae</option>
+
+           </form>
+           <form>
+               <p><h2>Write about your self below</h2></p>
+                <textarea name="" id="" cols"30" rows="10" placeholder="type here"></textarea>
+                <br>
+                  Pick color:<input type="color" name="" id=""><br>
+                 Date: <input type="date" name="" id=""><br>
+                    <input type="file" name="" id="">
+           </form> 
+           <body>
+             <img src="html.png" alt="this is very black">
+             <a href="
+
+
+
+
+
+
+
+
+
+
+
+
+
+             </body>
+
+
+
+
+
+
+
+
+
+</html>
